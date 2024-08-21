@@ -1,13 +1,10 @@
-/* Style for the main div */
 .main {
     width: 200px;
-    background-color: #800080; /* Purple color */
-    border-left: 5px solid #008000; /* Green color */
+    background-color: #800080; 
+    border-left: 5px solid #008000; 
     padding: 10px;
 }
-
-/* Style for the heading */
 #heading {
     font-size: 20px;
-    color: #ffffff; /* White color */
+    color: #ffffff; 
 }
